@@ -20,3 +20,12 @@
 .App-link {
   color: #09d3ac;
 }
+
+.Header-toolbar {
+  display: flex;
+  justify-content:  space-between;
+}
+
+.MuiDialogActions-root {
+  justify-content: unset !important;
+}
